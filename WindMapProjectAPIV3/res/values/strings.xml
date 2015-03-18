@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wind Spotted</string>
+    <string name="action_settings">Settings</string>
+    <string name="mode_emploi"><![CDATA[Mode d\'emploi]]>
+        </string>
+    <string name="windspotted_modeemploi">
+		<![CDATA[
+		 • Double tab => recuperation des predictions meteo web<br/><br/>
+		 • Bouton \"Show me the wind\" => Montre la direction du vent avec ton telephone<br/><br/>
+		 • Bouton \"Screenshot\" => Envoi les prévisions à un contact.<br/><br/>
+      ]]>
+    </string>
+
+</resources>
